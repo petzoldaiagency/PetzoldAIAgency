@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160">
+<rect width="160" height="160" rx="44" fill="#0b1020"/>
+<path d="M50 112V48h31c25 0 40 13 40 33s-15 33-40 33H70" fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="195" y="82" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#0b1020">Petzold</text>
+<text x="198" y="121" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#667085">AI Agency</text>
+</svg>
